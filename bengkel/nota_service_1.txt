@@ -1,0 +1,15 @@
+======================================================
+                  NOTA SERVICE BENGKEL
+======================================================
+ID Service : 1
+Tanggal    : 08-10-2026
+Pelanggan  : Dean
+Kendaraan  : Honda Vario
+No Polisi  : B 9987 WX
+Keluhan    : Busi motor karatan
+------------------------------------------------------
+1. Reza Febryadi : Rp 250.000
+Administrasi : Rp 30.000
+TOTAL       : Rp 280.000
+Status      : SELESAI
+======================================================
